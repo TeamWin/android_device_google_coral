@@ -161,8 +161,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     dmabuf_dump
 
-PRODUCT_PACKAGES += \
-    magiskboot_arm
 # Set thermal warm reset
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.thermal_warmreset = true \
